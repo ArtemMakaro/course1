@@ -1,6 +1,6 @@
+#include "menu.h"
 #include "pravila.h"
 #include "vvod.h"
-#include "menu.h"
 
 void pravila()
 {
@@ -25,4 +25,4 @@ void pravila()
         printf("До новых встреч!\n");
         return;
     }
-
+}
