@@ -1,7 +1,14 @@
-#include "menu.h"
 #include "pravila.h"
 #include "vvod.h"
 
+int back_m(int a)
+{
+    if (a == BACK_m) {
+        return 1;
+    } else {
+        return 0;
+    }
+}
 void pravila()
 {
     setlocale(LC_ALL, "UTF-8");
