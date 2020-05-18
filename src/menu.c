@@ -1,8 +1,8 @@
-#include "menu.h"
+﻿#include "menu.h"
 #include "authors.h"
 #include "pravila.h"
 #include "vubortemy.h"
-#include "vuborx.h"
+#include "vuborx.h" 
 #include "vvod.h"
 #define BACK_b 98
 #define BACK_m 109
