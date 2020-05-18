@@ -1,4 +1,4 @@
-# course (release)
+# course1 (release)
 [![Build Status](https://travis-ci.com/ArtemMakaro/course.svg?branch=master)](https://travis-ci.com/ArtemMakaro/course)
 
 ## Статус
@@ -14,7 +14,7 @@
 
 ## Сборка и запуск приложения
 Сборка возможна на Unix-подобных операционных системах на базе ядра Linux
-* $ git clone "https://github.com/ArtemMakaro/course.git"
+* $ git clone "https://github.com/ArtemMakaro/course1.git"
 * $ cd course
 * $ make
 * $ bin/main
