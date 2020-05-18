@@ -6,6 +6,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+int proverkavvoda(char key);
 void vvod();
 
 #endif
