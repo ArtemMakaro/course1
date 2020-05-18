@@ -46,11 +46,7 @@ void menu()
     for (int i = 0; i < 28; i++) {
         printf("-");
     }
-<<<<<<< Updated upstream
     printf("\n|        2 - Автроы        |\n");
-=======
-    printf("\n|        2 - Авторы        |\n");
->>>>>>> Stashed changes
     for (int i = 0; i < 28; i++) {
         printf("-");
     }
@@ -142,11 +138,7 @@ void print1()
     }
     printf("\n");
     printf("Пожалуйста, выберите номер или букву из меню (от 0 до 9; или "
-<<<<<<< Updated upstream
            "\"m\", или \"z\": ");
-=======
-           "\"m\", или \"z\"): ");
->>>>>>> Stashed changes
 }
 
 void print2()
