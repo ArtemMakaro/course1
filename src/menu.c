@@ -46,7 +46,7 @@ void menu()
     for (int i = 0; i < 28; i++) {
         printf("-");
     }
-    printf("\n|        2 - Автроы        |\n");
+    printf("\n|        2 - Авторы        |\n");
     for (int i = 0; i < 28; i++) {
         printf("-");
     }
