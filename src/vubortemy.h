@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int proverkavvoda1(char key);
 void vubortemy();
 
 #endif
